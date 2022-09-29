@@ -22,13 +22,13 @@ READINGS
 {{< tdclose >}}{{< tdopen >}}
 Life Now
 {{< tdclose >}}{{< tdopen >}}
- 
+"[Meanings of 'Life'](https://www.nature.com/articles/4471031b)." *Nature* 447 (2007): 1031–32.
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 2
 {{< tdclose >}}{{< tdopen >}}
 What is Life?
 {{< tdclose >}}{{< tdopen >}}
- 
+Keller, Evelyn Fox. "Synthetic Biology and the Origin of Living Form." Chapter 1 in *Making Sense of Life: Explaining Biological Development with Models, Metaphors, and Machines*. Harvard University Press, 2003. ISBN: ‎9780674012509. \[Preview with [Google Books](https://www.google.com/books/edition/Making_Sense_of_Life/h5azikQF1h0C?hl=en&gbpv=1)\]
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 3
 {{< tdclose >}}{{< tdopen >}}
