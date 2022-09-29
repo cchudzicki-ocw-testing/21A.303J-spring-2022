@@ -16,7 +16,7 @@ There are no prerequisites for this course.
 
 #### Course Description
 
-If the twentieth century was the century of physics, the twenty-first has become the century of biology. This subject examines the cultural, political, and economic dimensions of biology in the age of genomics, biotechnological enterprise, biodiversity conservation, pharmaceutical bioprospecting, synthetic biology, global pandemic, and     
+If the twentieth century was the century of physics, the twenty-first has become the century of biology. This subject examines the cultural, political, and economic dimensions of biology in the age of genomics, biotechnological enterprise, biodiversity conservation, pharmaceutical bioprospecting, synthetic biology, global pandemic, and      
 more. Although we examine such social concerns as genetic modification and reproductive rights, this is not a class in bioethics, but rather an anthropological inquiry into how the substances and explanations of biology — increasingly cellular, molecular, genetic, viral, and informatic — are changing, and with them broader ideas about the relationship between “nature” and “culture.” Looking at such scientific forms as cell lines, CRISPR, and epidemiological models, and drawing upon primary sources in biology, social studies of the life sciences, and literary and cinematic materials, we rephrase Erwin Schrödinger’s famous 1944 question, “What Is Life?” to ask, in the 2000s, “What Is Life Becoming?”
 
 #### Required Books
@@ -50,3 +50,7 @@ Class participation
 {{< tdclose >}}{{< trclose >}}{{< tbodyclose >}}{{< tableclose >}}
 
 For details on the class activities, see the {{% resource_link "41facb43-ca95-48aa-9e16-b8e8adfdb99b" "Assignments" %}} section.
+
+#### Academic Integrity
+
+Students are expected to adhere to MIT’s guidelines on academic integrity. Plagiarism, unauthorized collaboration, cheating, or facilitating academic dishonesty may cause us to contact the [Office of Student Citizenship](http://mit.edu/discipline/transfered%20to%20citizenship/) or [Committee on Discipline](http://cod.mit.edu/). If you have questions about what qualifies as plagiarism check out: [Academic Integrity at MIT: A Handbook for Students](http://integrity.mit.edu/).
