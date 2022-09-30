@@ -43,6 +43,10 @@ Evolutionary Narratives, Epidemiological Dramaturgy
 
 "[LIFE - Official Trailer (HD)](https://www.youtube.com/watch?v=LeLsJfGmY_Y)." 2017. YouTube.
 
+*Guest:*
+
+[Professor C. Brandon Ogbunu](https://fas.yale.edu/book/new-ladder-faculty-2020-2021/c-brandon-ogbunu), Ecology & Evolutionary Biology, Yale University.
+
 {{< tdclose >}}{{< tdopen >}}
  
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
