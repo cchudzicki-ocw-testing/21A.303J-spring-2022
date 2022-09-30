@@ -23,7 +23,7 @@ Life Now
 
 What is Life?
 
-*Film excerpts:*
+*Viewing of excerpts from:*
 
 "[Protein Synthesis: An Epic on the Cellular Level](https://www.youtube.com/watch?v=u9dhO0iCLww)." 1971. YouTube.
 
@@ -37,7 +37,7 @@ What is Life?
 
 Evolutionary Narratives, Epidemiological Dramaturgy
 
-*Film excerpts:*
+*Viewing of excerpts from:*
 
 [*Jurassic Park*](https://www.imdb.com/title/tt0107290/?ref_=fn_al_tt_0)*.* Directed by Steven Spielberg. Color, 127 min. 1993.
 
@@ -55,7 +55,7 @@ Evolutionary Narratives, Epidemiological Dramaturgy
 
 Race, Racism, and Racialization from Eugenics to Genomics
 
-*Film excerpts:*
+*Viewing of excerpts from:* 
 
 ***"The Gene Hunters."*** **Mary-Anne Alton et al., 2000**
 
@@ -69,16 +69,22 @@ Race, Racism, and Racialization from Eugenics to Genomics
 
 Biopolitics and Reproduction
 
-*Film:*
+*Viewing:*
 
-["Made in India: A Film about Surrogacy"(trailer)](https://www.youtube.com/watch?v=-uqBP17ZERQ). 2010. YouTube.
+[*Made in India: A Film about Surrogacy*](https://www.imdb.com/title/tt1505349/?ref_=nv_sr_srsg_2)*.* Directed by Rebecca Haimowitz and Vaishali Sinha. Color, 95 min. 2010. (See [trailer](https://www.youtube.com/watch?v=-uqBP17ZERQ) on YouTube).
 
 {{< tdclose >}}{{< tdopen >}}
 Paper 1 due
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 6
 {{< tdclose >}}{{< tdopen >}}
+
 Biology for Sale
+
+*Viewing of excerpts from:* 
+
+[*The Immortal Life of Henrietta Lacks*](https://www.imdb.com/title/tt5686132/)*.* Directed by George C. Wolfe. Color, 93 min. 2017.
+
 {{< tdclose >}}{{< tdopen >}}
  
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
