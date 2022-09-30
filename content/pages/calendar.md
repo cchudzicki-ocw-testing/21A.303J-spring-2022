@@ -87,6 +87,8 @@ Biology for Sale
 
 [*Dirty Pretty Things*](https://www.imdb.com/title/tt0301199/?ref_=nv_sr_srsg_0). Directed by Stephen Frears. Color, 97 min. 2002.
 
+[*Never Let Me Go*](https://www.imdb.com/title/tt1334260/?ref_=nv_sr_srsg_0). Directed by Mark Romanek. Color, 103 min. 2010.
+
 {{< tdclose >}}{{< tdopen >}}
  
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
