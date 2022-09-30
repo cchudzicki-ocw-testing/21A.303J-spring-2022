@@ -96,7 +96,13 @@ Biology for Sale
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 7
 {{< tdclose >}}{{< tdopen >}}
+
 Health Disparities in the United States
+
+*Guests:*
+
+Dr. David Lowry and students from [21H.283: The Indigenous History of MIT](https://history.mit.edu/subjects/the-indigenous-history-of-mit/).
+
 {{< tdclose >}}{{< tdopen >}}
  
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
