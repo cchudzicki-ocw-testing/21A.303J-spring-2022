@@ -23,7 +23,7 @@ Life Now
 
 What is Life?
 
-Film excerpts:
+*Film excerpts:*
 
 "[Protein Synthesis: An Epic on the Cellular Level](https://www.youtube.com/watch?v=u9dhO0iCLww)." 1971. YouTube.
 
@@ -34,7 +34,15 @@ Film excerpts:
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 3
 {{< tdclose >}}{{< tdopen >}}
+
 Evolutionary Narratives, Epidemiological Dramaturgy
+
+*Film excerpts:*
+
+[*Jurassic Park*](https://www.imdb.com/title/tt0107290/?ref_=fn_al_tt_0)*.* Directed by Steven Spielberg. Color, 127 mins. 1993.
+
+"[LIFE - Official Trailer (HD)](https://www.youtube.com/watch?v=LeLsJfGmY_Y)." 2017. YouTube.
+
 {{< tdclose >}}{{< tdopen >}}
  
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
