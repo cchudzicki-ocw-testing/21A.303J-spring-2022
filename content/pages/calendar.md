@@ -20,7 +20,15 @@ Life Now
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 2
 {{< tdclose >}}{{< tdopen >}}
+
 What is Life?
+
+Film excerpts:
+
+"[Protein Synthesis: An Epic on the Cellular Level](https://www.youtube.com/watch?v=u9dhO0iCLww)." 1971. YouTube.
+
+"[Death by Design](https://www.youtube.com/watch?v=4NytzTLnyKM)." 1995. YouTube.
+
 {{< tdclose >}}{{< tdopen >}}
  
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
