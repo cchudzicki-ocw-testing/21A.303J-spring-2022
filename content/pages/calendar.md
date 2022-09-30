@@ -39,7 +39,7 @@ Evolutionary Narratives, Epidemiological Dramaturgy
 
 *Film excerpts:*
 
-[*Jurassic Park*](https://www.imdb.com/title/tt0107290/?ref_=fn_al_tt_0)*.* Directed by Steven Spielberg. Color, 127 mins. 1993.
+[*Jurassic Park*](https://www.imdb.com/title/tt0107290/?ref_=fn_al_tt_0)*.* Directed by Steven Spielberg. Color, 127 min. 1993.
 
 "[LIFE - Official Trailer (HD)](https://www.youtube.com/watch?v=LeLsJfGmY_Y)." 2017. YouTube.
 
@@ -52,7 +52,15 @@ Evolutionary Narratives, Epidemiological Dramaturgy
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 4
 {{< tdclose >}}{{< tdopen >}}
+
 Race, Racism, and Racialization from Eugenics to Genomics
+
+*Film excerpts:*
+
+***"The Gene Hunters."*** **Mary-Anne Alton et al., 2000**
+
+[*African American Lives, Episode 4: Beyond the Middle Passage*](https://www.imdb.com/title/tt1075422/?ref_=ttep_ep4). Directed by Leslie Asako Galdsjo and Graham Judd. Color, 54 min. 2006.
+
 {{< tdclose >}}{{< tdopen >}}
  
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
