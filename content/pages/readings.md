@@ -31,7 +31,7 @@ What is Life?
 
 Keller, Evelyn Fox. "Synthetic Biology and the Origin of Living Form." Chapter 1 in *Making Sense of Life: Explaining Biological Development with Models, Metaphors, and Machines*. Harvard University Press, 2003. ISBN: ‎9780674012509. \[Preview with [Google Books](https://www.google.com/books/edition/Making_Sense_of_Life/h5azikQF1h0C?hl=en&gbpv=1)\]
 
-– – –. "Molecules, Messages, and Memory: Life and the Second Law." Chapter 2 in *Refiguring Life: Metaphors of Twentieth-Century Biology*. Columbia University Press, 1996. ISBN: ‎9780231102056. \[Preview with [Google Books](https://www.google.com/books/edition/Refiguring_Life/WuOFxPilBMQC?hl=en&gbpv=1)\]
+———. "Molecules, Messages, and Memory: Life and the Second Law." Chapter 2 in *Refiguring Life: Metaphors of Twentieth-Century Biology*. Columbia University Press, 1996. ISBN: ‎9780231102056. \[Preview with [Google Books](https://www.google.com/books/edition/Refiguring_Life/WuOFxPilBMQC?hl=en&gbpv=1)\]
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 3
