@@ -41,7 +41,7 @@ Evolutionary Narratives, Epidemiological Dramaturgy
 
 [*Jurassic Park*](https://www.imdb.com/title/tt0107290/?ref_=fn_al_tt_0)*.* Directed by Steven Spielberg. Color, 127 min. 1993.
 
-"[LIFE - Official Trailer (HD)](https://www.youtube.com/watch?v=LeLsJfGmY_Y)." 2017. YouTube.
+["Life" (trailer)](https://www.youtube.com/watch?v=LeLsJfGmY_Y). 2017. YouTube.
 
 *Guest:*
 
@@ -66,9 +66,15 @@ Race, Racism, and Racialization from Eugenics to Genomics
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 5
 {{< tdclose >}}{{< tdopen >}}
+
 Biopolitics and Reproduction
+
+*Film:*
+
+["Made in India: A Film about Surrogacy"(trailer)](https://www.youtube.com/watch?v=-uqBP17ZERQ). 2010. YouTube.
+
 {{< tdclose >}}{{< tdopen >}}
- 
+Paper 1 due
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 6
 {{< tdclose >}}{{< tdopen >}}
