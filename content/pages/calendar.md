@@ -89,6 +89,8 @@ Biology for Sale
 
 [*Never Let Me Go*](https://www.imdb.com/title/tt1334260/?ref_=nv_sr_srsg_0). Directed by Mark Romanek. Color, 103 min. 2010.
 
+[*The Inventor: Out for Blood in Silicon Valley*](https://www.imdb.com/title/tt8488126/?ref_=fn_al_tt_0). Directed by Alex Gibney. Color, 119 min. 2019.
+
 {{< tdclose >}}{{< tdopen >}}
  
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
