@@ -116,7 +116,7 @@ Remixing Organisms
 {{< tdclose >}}{{< tdopen >}}
 Animals!
 {{< tdclose >}}{{< tdopen >}}
- 
+Paper 2 due
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 10
 {{< tdclose >}}{{< tdopen >}}
