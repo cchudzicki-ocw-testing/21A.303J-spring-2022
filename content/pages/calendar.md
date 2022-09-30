@@ -55,7 +55,7 @@ Evolutionary Narratives, Epidemiological Dramaturgy
 
 Race, Racism, and Racialization from Eugenics to Genomics
 
-*Viewing of excerpts from:* 
+*Viewing of excerpts from:*
 
 ***"The Gene Hunters."*** **Mary-Anne Alton et al., 2000**
 
@@ -81,9 +81,11 @@ Paper 1 due
 
 Biology for Sale
 
-*Viewing of excerpts from:* 
+*Viewing of excerpts from:*
 
 [*The Immortal Life of Henrietta Lacks*](https://www.imdb.com/title/tt5686132/)*.* Directed by George C. Wolfe. Color, 93 min. 2017.
+
+[*Dirty Pretty Things*](https://www.imdb.com/title/tt0301199/?ref_=nv_sr_srsg_0). Directed by Stephen Frears. Color, 97 min. 2002.
 
 {{< tdclose >}}{{< tdopen >}}
  
