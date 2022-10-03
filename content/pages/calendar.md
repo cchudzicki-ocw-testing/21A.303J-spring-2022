@@ -43,7 +43,7 @@ Evolutionary Narratives, Epidemiological Dramaturgy
 
 ["Life" (trailer)](https://www.youtube.com/watch?v=LeLsJfGmY_Y). 2017. YouTube.
 
-*Guest:*
+*Visitor:*
 
 [Professor C. Brandon Ogbunu](https://fas.yale.edu/book/new-ladder-faculty-2020-2021/c-brandon-ogbunu), Ecology & Evolutionary Biology, Yale University.
 
@@ -99,7 +99,7 @@ Biology for Sale
 
 Health Disparities in the United States
 
-*Guests:*
+*Visitors:*
 
 Dr. David Lowry and students from [21H.283: The Indigenous History of MIT](https://history.mit.edu/subjects/the-indigenous-history-of-mit/).
 
@@ -132,6 +132,10 @@ Animals!
 *Podcast excerpt:*
 
 "[The Lion and the Rat](https://podcast.labyrinth.garden/1919755/9961975-the-lion-and-the-rat)." [The Labyrinth Project at UCLA](https://podcast.labyrinth.garden/1919755). January 27, 2022.
+
+*Visitor:*
+
+[Professor Emily Wanderer](http://www.anthropology.pitt.edu/people/emily-wanderer), Department of Anthropology, University of Pittsburgh.
 
 {{< tdclose >}}{{< tdopen >}}
 Paper 2 due
