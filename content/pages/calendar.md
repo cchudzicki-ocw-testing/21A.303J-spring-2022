@@ -23,7 +23,7 @@ Life Now
 
 What is Life?
 
-*Viewing of excerpts from:*
+*Film excerpts:*
 
 "[Protein Synthesis: An Epic on the Cellular Level](https://www.youtube.com/watch?v=u9dhO0iCLww)." 1971. YouTube.
 
@@ -37,7 +37,7 @@ What is Life?
 
 Evolutionary Narratives, Epidemiological Dramaturgy
 
-*Viewing of excerpts from:*
+*Film excerpts:*
 
 [*Jurassic Park*](https://www.imdb.com/title/tt0107290/?ref_=fn_al_tt_0)*.* Directed by Steven Spielberg. Color, 127 min. 1993.
 
@@ -55,7 +55,7 @@ Evolutionary Narratives, Epidemiological Dramaturgy
 
 Race, Racism, and Racialization from Eugenics to Genomics
 
-*Viewing of excerpts from:*
+*Film excerpts:*
 
 ***"The Gene Hunters."*** **Mary-Anne Alton et al., 2000**
 
@@ -69,7 +69,7 @@ Race, Racism, and Racialization from Eugenics to Genomics
 
 Biopolitics and Reproduction
 
-*Viewing:*
+*Film:*
 
 [*Made in India: A Film about Surrogacy*](https://www.imdb.com/title/tt1505349/?ref_=nv_sr_srsg_2)*.* Directed by Rebecca Haimowitz and Vaishali Sinha. Color, 95 min. 2010. (See [trailer](https://www.youtube.com/watch?v=-uqBP17ZERQ) on YouTube).
 
@@ -81,7 +81,7 @@ Paper 1 due
 
 Biology for Sale
 
-*Viewing of excerpts from:*
+*Film excerpts:*
 
 [*The Immortal Life of Henrietta Lacks*](https://www.imdb.com/title/tt5686132/)*.* Directed by George C. Wolfe. Color, 93 min. 2017.
 
@@ -117,17 +117,17 @@ Remixing Organisms
 
 Animals!
 
-*Viewing of excerpts from:*
+*Film excerpts:*
 
-"[The Love Life of the Octopus](https://www.youtube.com/watch?v=Puwf5sjQ8Jg)."  
-
-1965\. YouTube.
+"[The Love Life of the Octopus](https://www.youtube.com/watch?v=Puwf5sjQ8Jg)." 1965. YouTube.
 
 [*Primate*](https://www.imdb.com/title/tt0072032/?ref_=fn_al_tt_3). Directed by Frederick Wiseman. Black and White, 105 min. 1974.
 
 "[Cane Toads: An Unnatural History](https://www.youtube.com/watch?v=6SBLf1tsoaw)." 1988. YouTube.
 
 [*Grizzly Man*](https://www.imdb.com/title/tt0427312/?ref_=fn_al_tt_0). Directed by Werner Herzog. Color, 103 min. 2005.
+
+"[Mi Hermano (My Brother)](https://vimeo.com/231316491)." 2018. Vimeo.
 
 {{< tdclose >}}{{< tdopen >}}
 Paper 2 due
