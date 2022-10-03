@@ -74,7 +74,7 @@ Biopolitics and Reproduction
 [*Made in India: A Film about Surrogacy*](https://www.imdb.com/title/tt1505349/?ref_=nv_sr_srsg_2)*.* Directed by Rebecca Haimowitz and Vaishali Sinha. Color, 95 min. 2010. (See [trailer](https://www.youtube.com/watch?v=-uqBP17ZERQ) on YouTube).
 
 {{< tdclose >}}{{< tdopen >}}
-Paper 1 due
+{{% resource_link "41facb43-ca95-48aa-9e16-b8e8adfdb99b" "Paper 1 due" %}}
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 6
 {{< tdclose >}}{{< tdopen >}}
@@ -138,7 +138,7 @@ Animals!
 [Professor Emily Wanderer](http://www.anthropology.pitt.edu/people/emily-wanderer), Department of Anthropology, University of Pittsburgh.
 
 {{< tdclose >}}{{< tdopen >}}
-Paper 2 due
+{{% resource_link "41facb43-ca95-48aa-9e16-b8e8adfdb99b" "Paper 2 due" %}}
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 10
 {{< tdclose >}}{{< tdopen >}}
@@ -166,7 +166,7 @@ Alien Ocean
 {{< tdclose >}}{{< tdopen >}}
 Class Conference
 {{< tdclose >}}{{< tdopen >}}
- 
+{{% resource_link "41facb43-ca95-48aa-9e16-b8e8adfdb99b" "Paper 3 due" %}}
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 13
 {{< tdclose >}}{{< tdopen >}}
