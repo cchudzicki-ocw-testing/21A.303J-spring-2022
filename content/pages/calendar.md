@@ -45,7 +45,7 @@ Evolutionary Narratives, Epidemiological Dramaturgy
 
 *Visitor:*
 
-[Professor C. Brandon Ogbunu](https://fas.yale.edu/book/new-ladder-faculty-2020-2021/c-brandon-ogbunu), Ecology & Evolutionary Biology, Yale University.
+[Professor C. Brandon Ogbunu](https://fas.yale.edu/book/new-ladder-faculty-2020-2021/c-brandon-ogbunu), Department of Ecology & Evolutionary Biology, Yale University.
 
 {{< tdclose >}}{{< tdopen >}}
  
@@ -142,7 +142,17 @@ Paper 2 due
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 10
 {{< tdclose >}}{{< tdopen >}}
+
 Synthetic Biology
+
+*Film excerpt:*
+
+[*Unnatural Selection, Season 1, Episode : Cut, Paste, Life*](https://www.imdb.com/title/tt11072598/?ref_=tt_eps_top)*.* Directed by Joe Egender and Leeor Kaufman. Color, 70 min. 2019.
+
+*Visitor:*
+
+[Professor Sophia Roosth](https://gallatin.nyu.edu/people/faculty/sr9999.html), Gallatin School of Individualized Study, New York University.
+
 {{< tdclose >}}{{< tdopen >}}
  
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
