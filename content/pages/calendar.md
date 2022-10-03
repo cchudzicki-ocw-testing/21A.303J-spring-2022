@@ -114,7 +114,21 @@ Remixing Organisms
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 9
 {{< tdclose >}}{{< tdopen >}}
+
 Animals!
+
+*Viewing of excerpts from:*
+
+"[The Love Life of the Octopus](https://www.youtube.com/watch?v=Puwf5sjQ8Jg)."  
+
+1965\. YouTube.
+
+[*Primate*](https://www.imdb.com/title/tt0072032/?ref_=fn_al_tt_3). Directed by Frederick Wiseman. Black and White, 105 min. 1974.
+
+"[Cane Toads: An Unnatural History](https://www.youtube.com/watch?v=6SBLf1tsoaw)." 1988. YouTube.
+
+[*Grizzly Man*](https://www.imdb.com/title/tt0427312/?ref_=fn_al_tt_0). Directed by Werner Herzog. Color, 103 min. 2005.
+
 {{< tdclose >}}{{< tdopen >}}
 Paper 2 due
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
