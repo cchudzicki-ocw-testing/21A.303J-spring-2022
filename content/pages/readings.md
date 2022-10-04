@@ -33,8 +33,7 @@ Keller, Evelyn Fox. "Synthetic Biology and the Origin of Living Form." Chapter 1
 
 ———. "Molecules, Messages, and Memory: Life and the Second Law." Chapter 2 in *Refiguring Life: Metaphors of Twentieth-Century Biology*. Columbia University Press, 1996. ISBN: ‎9780231102056. \[Preview with [Google Books](https://www.google.com/books/edition/Refiguring_Life/WuOFxPilBMQC?hl=en&gbpv=1)\]
 
-Kay, Lily E. "In the Beginning Was the Word?: The Genetic Code and the Book of  
-Life." Chapter 15 in *The Science Studies Reader*. Edited by Mario Biagioli. Routledge, 1999. ISBN: ‎9780415918688.
+Kay, Lily E. "In the Beginning Was the Word?: The Genetic Code and the Book of Life." Chapter 15 in *The Science Studies Reader*. Edited by Mario Biagioli. Routledge, 1999. ISBN: ‎9780415918688.
 
 Margulis, Lynn and Dorion Sagan. "Life: The Eternal Enigma." Chapter 1 in *What Is Life?* University of California Press, 2000. ISBN: ‎9780520220218. \[Preview with [Google Books](https://www.google.com/books/edition/What_Is_Life/VwsRNzrcCf4C?hl=en&gbpv=1)\]
 
@@ -43,7 +42,13 @@ Margulis, Lynn and Dorion Sagan. "Life: The Eternal Enigma." Chapter 1 in *What 
 {{< tdclose >}}{{< tdopen >}}
 Evolutionary Narratives, Epidemiological Dramaturgy
 {{< tdclose >}}{{< tdopen >}}
- 
+
+Beer, Gillian. "Introduction." In *Darwin’s Plots: Evolutionary Narrative in Darwin,*  
+*George Eliot and Nineteenth-Century Fiction*. 3rd ed. Cambridge University Press, 2009. ISBN: ‎9780521743617. 
+
+Fedigan, Linda Marie. "[The Changing Role of Women in Models of Human](https://www.jstor.org/stable/2155754#metadata_info_tab_contents)  
+[Evolution](https://www.jstor.org/stable/2155754#metadata_info_tab_contents)." *Annual Review of Anthropology* 15 (1986): 25–66. (Read only pp. 25–31.)
+
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 4
 {{< tdclose >}}{{< tdopen >}}
