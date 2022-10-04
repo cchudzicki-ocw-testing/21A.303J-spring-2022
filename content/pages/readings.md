@@ -43,16 +43,19 @@ Margulis, Lynn and Dorion Sagan. "Life: The Eternal Enigma." Chapter 1 in *What 
 Evolutionary Narratives, Epidemiological Dramaturgy
 {{< tdclose >}}{{< tdopen >}}
 
-Beer, Gillian. "Introduction." In *Darwin’s Plots: Evolutionary Narrative in Darwin,*    
+Beer, Gillian. "Introduction." In *Darwin’s Plots: Evolutionary Narrative in Darwin,*     
 *George Eliot and Nineteenth-Century Fiction*. 3rd ed. Cambridge University Press, 2009. ISBN: ‎9780521743617. 
 
-Fedigan, Linda Marie. "[The Changing Role of Women in Models of Human](https://www.jstor.org/stable/2155754#metadata_info_tab_contents)    
+Fedigan, Linda Marie. "[The Changing Role of Women in Models of Human](https://www.jstor.org/stable/2155754#metadata_info_tab_contents)     
 [Evolution](https://www.jstor.org/stable/2155754#metadata_info_tab_contents)." *Annual Review of Anthropology* 15 (1986): 25–66. (Read only pp. 25–31.)
 
-Rosenberg, Charles E. "[What Is an Epidemic? AIDS in Historical Perspective](https://www.jstor.org/stable/20025233#metadata_info_tab_contents)."   
-*Daedalus* 118, no. 2 (1989): 1-17.
+Rosenberg, Charles E. "[What Is an Epidemic? AIDS in Historical Perspective](https://www.jstor.org/stable/20025233#metadata_info_tab_contents)."    
+*Daedalus* 118, no. 2 (1989): 1–17.
 
-Carr, Danielle. "[A Virus without a World](https://www.thenation.com/article/culture/carl-zimmer-virus/)." *The Nation*, September 7, 2021.
+Carr, Danielle. "[A Virus Without a World](https://www.thenation.com/article/culture/carl-zimmer-virus/)." *The Nation*, September 7, 2021.
+
+Wailoo, Keith. ["Spectacles of Difference: The Racial Scripting of Epidemic](https://muse.jhu.edu/article/786006/pdf)  
+[Disparities." (PDF)](https://muse.jhu.edu/article/786006/pdf) *Bulletin of the History of Medicine* 94, no. 4 (2020): 602–25.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 4
