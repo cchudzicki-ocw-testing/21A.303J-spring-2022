@@ -5,11 +5,11 @@ draft: false
 title: Readings
 uid: e8286978-cd8b-4dd3-aa3d-7f55a7a3cb6d
 ---
-\[R\] = 
+\[P\] = Pollock, Anne. *Sickening: Anti-Black Racism and Health Disparities in the United States*. University of Minnesota Press, 2021. ISBN: ‎9781517911720. \[Preview with [Google Books](https://www.google.com/books/edition/Sickening/HzU4EAAAQBAJ?hl=en&gbpv=1)\]
 
-\[R\] = 
+\[K\] = Kirksey, Eben. *The Mutant Project: Inside the Global Race to Genetically Modify Humans*. St. Martin's Press, 2020. ISBN: ‎978.1250265357. \[Preview with [Google Books](https://www.google.com/books/edition/The_Mutant_Project/RS_QDwAAQBAJ?hl=en&gbpv=1)\]
 
-\[R\] =
+\[R\] = Roosth, Sophia. *Synthetic: How Life Got Made*. University of Chicago Press, 2017. ISBN: ‎9780226440460. \[Preview with [Google Books](https://www.google.com/books/edition/Synthetic/4ZUtDwAAQBAJ?hl=en&gbpv=1)\]
 
 {{< tableopen >}}{{< theadopen >}}{{< tropen >}}{{< thopen >}}
 SES #
@@ -32,6 +32,11 @@ What is Life?
 Keller, Evelyn Fox. "Synthetic Biology and the Origin of Living Form." Chapter 1 in *Making Sense of Life: Explaining Biological Development with Models, Metaphors, and Machines*. Harvard University Press, 2003. ISBN: ‎9780674012509. \[Preview with [Google Books](https://www.google.com/books/edition/Making_Sense_of_Life/h5azikQF1h0C?hl=en&gbpv=1)\]
 
 ———. "Molecules, Messages, and Memory: Life and the Second Law." Chapter 2 in *Refiguring Life: Metaphors of Twentieth-Century Biology*. Columbia University Press, 1996. ISBN: ‎9780231102056. \[Preview with [Google Books](https://www.google.com/books/edition/Refiguring_Life/WuOFxPilBMQC?hl=en&gbpv=1)\]
+
+Kay, Lily E. "In the Beginning Was the Word?: The Genetic Code and the Book of  
+Life." Chapter 15 in *The Science Studies Reader*. Edited by Mario Biagioli. Routledge, 1999. ISBN: ‎9780415918688.
+
+Margulis, Lynn and Dorion Sagan. "Life: The Eternal Enigma." Chapter 1 in *What Is Life?* University of California Press, 2000. ISBN: ‎9780520220218. \[Preview with [Google Books](https://www.google.com/books/edition/What_Is_Life/VwsRNzrcCf4C?hl=en&gbpv=1)\]
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 3
