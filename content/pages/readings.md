@@ -43,18 +43,18 @@ Margulis, Lynn and Dorion Sagan. "Life: The Eternal Enigma." Chapter 1 in *What 
 Evolutionary Narratives, Epidemiological Dramaturgy
 {{< tdclose >}}{{< tdopen >}}
 
-Beer, Gillian. "Introduction." In *Darwin’s Plots: Evolutionary Narrative in Darwin,*            
+Beer, Gillian. "Introduction." In *Darwin’s Plots: Evolutionary Narrative in Darwin,*             
 *George Eliot and Nineteenth-Century Fiction*. 3rd ed. Cambridge University Press, 2009. ISBN: ‎9780521743617. 
 
-Fedigan, Linda Marie. "[The Changing Role of Women in Models of Human](https://www.jstor.org/stable/2155754#metadata_info_tab_contents)            
+Fedigan, Linda Marie. "[The Changing Role of Women in Models of Human](https://www.jstor.org/stable/2155754#metadata_info_tab_contents)             
 [Evolution](https://www.jstor.org/stable/2155754#metadata_info_tab_contents)." *Annual Review of Anthropology* 15 (1986): 25–66. (Read only pp. 25–31.)
 
-Rosenberg, Charles E. "[What Is an Epidemic? AIDS in Historical Perspective](https://www.jstor.org/stable/20025233#metadata_info_tab_contents)."           
+Rosenberg, Charles E. "[What Is an Epidemic? AIDS in Historical Perspective](https://www.jstor.org/stable/20025233#metadata_info_tab_contents)."            
 *Daedalus* 118, no. 2 (1989): 1–17.
 
 Carr, Danielle. "[A Virus Without a World](https://www.thenation.com/article/culture/carl-zimmer-virus/)." *The Nation*, September 7, 2021.
 
-Wailoo, Keith. ["Spectacles of Difference: The Racial Scripting of Epidemic](https://muse.jhu.edu/article/786006/pdf)         
+Wailoo, Keith. ["Spectacles of Difference: The Racial Scripting of Epidemic](https://muse.jhu.edu/article/786006/pdf)          
 [Disparities." (PDF - 1.6MB)](https://muse.jhu.edu/article/786006/pdf) *Bulletin of the History of Medicine* 94, no. 4 (2020): 602–25.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
@@ -76,6 +76,9 @@ TallBear, Kim. "[Genomic Articulations of Indigeneity](https://www.jstor.org/sta
 Nelson, Alondra. "[Bio Science: Genetic Genealogy Testing and the Pursuit of African Ancestry](https://www.jstor.org/stable/25474607#metadata_info_tab_contents)." *Social Studies of Science* 38, no. 5 (2008): 759–83.
 
 Kahn, Jonathan. ["Patenting Race." (PDF)](https://unnaturalcauses.org/assets/uploads/file/kahn-patenting_race.pdf) *Nature Biotechnology* 24, no. 11 (2006): 1349–51.
+
+Helmreich, Stefan. "Homo microbis: Species, Race, Sex, and the Human  
+Microbiome." Chapter 6 in *Sounding the Limits of Life: Essays in the Anthropology of Biology and Beyond*. Princeton University Press, 2015. ISBN: ‎ 9780691164816. \[Preview with [Google Books](https://www.google.com/books/edition/Sounding_the_Limits_of_Life/8GuYDwAAQBAJ?hl=en&gbpv=1)\]
 
 *View:*
 
