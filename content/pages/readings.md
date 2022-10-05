@@ -45,14 +45,14 @@ Evolutionary Narratives, Epidemiological Dramaturgy
 
 Beer, Gillian. "Introduction." In *Darwin’s Plots: Evolutionary Narrative in Darwin,* *George Eliot and Nineteenth-Century Fiction*. 3rd ed. Cambridge University Press, 2009. ISBN: ‎9780521743617. 
 
-Fedigan, Linda Marie. "[The Changing Role of Women in Models of Human](https://www.jstor.org/stable/2155754#metadata_info_tab_contents)                         
+Fedigan, Linda Marie. "[The Changing Role of Women in Models of Human](https://www.jstor.org/stable/2155754#metadata_info_tab_contents)                          
 [Evolution](https://www.jstor.org/stable/2155754#metadata_info_tab_contents)." *Annual Review of Anthropology* 15 (1986): 25–66. (Read only pp. 25–31.)
 
 Rosenberg, Charles E. "[What Is an Epidemic? AIDS in Historical Perspective](https://www.jstor.org/stable/20025233#metadata_info_tab_contents)." *Daedalus* 118, no. 2 (1989): 1–17.
 
 Carr, Danielle. "[A Virus Without a World](https://www.thenation.com/article/culture/carl-zimmer-virus/)." *The Nation*, September 7, 2021.
 
-Wailoo, Keith. ["Spectacles of Difference: The Racial Scripting of Epidemic](https://muse.jhu.edu/article/786006/pdf)                      
+Wailoo, Keith. ["Spectacles of Difference: The Racial Scripting of Epidemic](https://muse.jhu.edu/article/786006/pdf)                       
 [Disparities." (PDF - 1.6MB)](https://muse.jhu.edu/article/786006/pdf) *Bulletin of the History of Medicine* 94, no. 4 (2020): 602–25.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
@@ -75,7 +75,7 @@ Nelson, Alondra. "[Bio Science: Genetic Genealogy Testing and the Pursuit of Afr
 
 Kahn, Jonathan. ["Patenting Race." (PDF)](https://unnaturalcauses.org/assets/uploads/file/kahn-patenting_race.pdf) *Nature Biotechnology* 24, no. 11 (2006): 1349–51.
 
-Helmreich, Stefan. "Homo microbis: Species, Race, Sex, and the Human              
+Helmreich, Stefan. "Homo microbis: Species, Race, Sex, and the Human               
 Microbiome." Chapter 6 in *Sounding the Limits of Life: Essays in the Anthropology of Biology and Beyond*. Princeton University Press, 2015. ISBN: ‎ 9780691164816. \[Preview with [Google Books](https://www.google.com/books/edition/Sounding_the_Limits_of_Life/8GuYDwAAQBAJ?hl=en&gbpv=1)\]
 
 *View:*
@@ -88,9 +88,9 @@ Microbiome." Chapter 6 in *Sounding the Limits of Life: Essays in the Anthropolo
 Biopolitics and Reproduction
 {{< tdclose >}}{{< tdopen >}}
 
-Foucault, Michel. "Right of Death and Power over Life." Part 5 in *The History of*           *Sexuality, Vol. 1: An Introduction*. Translated from the French by Robert Hurley. Vintage, 1990. ISBN: ‎9780679724698. 
+Foucault, Michel. "Right of Death and Power over Life." Part 5 in *The History of Sexuality, Vol. 1: An Introduction*. Translated from the French by Robert Hurley. Vintage, 1990. ISBN: ‎9780679724698. 
 
-Taussig, Karen-Sue, Rayna Rapp, and Deborah Heath. "Flexible Eugenics:             
+Taussig, Karen-Sue, Rayna Rapp, and Deborah Heath. "Flexible Eugenics:              
 Technologies of Self in the Age of Eugenics." Chapter 3 in *Genetic Nature/Culture: Anthropology and Science beyond the Two-Culture Divide*. Edited by Alan H. Goodman, Deborah Heath, and M. Susan Lindee. University of California Press, 2003. ISBN: ‎9780520237933. \[Preview with [Google Books](https://www.google.com/books/edition/Genetic_Nature_Culture/pQ1HZpXrqSMC?hl=en&gbpv=1)\]
 
 Bharadwaj, Aditya. "The Other Mother: Supplementary Wombs and the Surrogate State in India." In *Reproductive Technologies as Global Form: Ethnographies of Knowledge, Practices, and Transnational Encounters*. Edited by Michi Knecht, Maren Klotz, and Stefan Beck. University of Chicago Press, 2012. ISBN: 9783593391007. 
@@ -107,10 +107,10 @@ Ritvo, Harriet. "Possessing Mother Nature: Genetic Capital in Eighteenth-century
 
 Landecker, Hannah. "[Between Beneficence and Chattel: The Human Biological in](https://www.cambridge.org/core/journals/science-in-context/article/between-beneficence-and-chattel-the-human-biological-in-law-and-science/24E4552502C2BB7CD94AC0CDD040D653#) [Law and Science](https://www.cambridge.org/core/journals/science-in-context/article/between-beneficence-and-chattel-the-human-biological-in-law-and-science/24E4552502C2BB7CD94AC0CDD040D653#)." *Science in Context* 12, no. 1 (1999): 203–25.
 
-Scheper-Hughes, Nancy. "The Last Commodity: Post-Human Ethics and the          
+Scheper-Hughes, Nancy. "The Last Commodity: Post-Human Ethics and the           
 Global Traffic in ‘Fresh’ Organs." Chapter 9 in *Global Assemblages: Technology, Politics, and Ethics as Anthropological Problems*. Edited by Aihwa Ong and Stephen J. Collier. Wiley-Blackwell, 2004. ISBN: ‎9781405123587. 
 
-Banerjee, Dwaipayan. "[From Internationalism to Nationalism: A New Vaccine](https://muse.jhu.edu/article/840283)          
+Banerjee, Dwaipayan. "[From Internationalism to Nationalism: A New Vaccine](https://muse.jhu.edu/article/840283)           
 [Apartheid](https://muse.jhu.edu/article/840283)." *Comparative Studies of South Asia, Africa and the Middle East* 41, no. 3 (2021): 312–17.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
@@ -148,7 +148,7 @@ Franklin, Sarah. "Sex." Chapter 1 in *Dolly Mixtures: The Remaking of Genealogy*
 {{< tdclose >}}{{< tdopen >}}
 Animals!
 {{< tdclose >}}{{< tdopen >}}
-Ritvo, Harriet. "Race, Breed, and Myths of Origin: Chillingham Cattle as Ancient         Britons." *Representations* 39 (1992): 1–22.
+Ritvo, Harriet. "[Race, Breed, and Myths of Origin: Chillingham Cattle as Ancient Britons](https://www.jstor.org/stable/2928592#metadata_info_tab_contents)." *Representations* 39 (1992): 1–22.
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 10
 {{< tdclose >}}{{< tdopen >}}
