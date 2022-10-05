@@ -16,14 +16,14 @@ There are no prerequisites for this course.
 
 #### Course Description
 
-If the twentieth century was the century of physics, the twenty-first has become the century of biology. This subject examines the cultural, political, and economic dimensions of biology in the age of genomics, biotechnological enterprise, biodiversity conservation, pharmaceutical bioprospecting, synthetic biology, global pandemic, and       
+If the twentieth century was the century of physics, the twenty-first has become the century of biology. This subject examines the cultural, political, and economic dimensions of biology in the age of genomics, biotechnological enterprise, biodiversity conservation, pharmaceutical bioprospecting, synthetic biology, global pandemic, and        
 more. Although we examine such social concerns as genetic modification and reproductive rights, this is not a class in bioethics, but rather an anthropological inquiry into how the substances and explanations of biology — increasingly cellular, molecular, genetic, viral, and informatic — are changing, and with them broader ideas about the relationship between “nature” and “culture.” Looking at such scientific forms as cell lines, CRISPR, and epidemiological models, and drawing upon primary sources in biology, social studies of the life sciences, and literary and cinematic materials, we rephrase Erwin Schrödinger’s famous 1944 question, “What Is Life?” to ask, in the 2000s, “What Is Life Becoming?”
 
 #### Required Books
 
 Pollock, Anne. *Sickening: Anti-Black Racism and Health Disparities in the United States*. University of Minnesota Press, 2021. ISBN: ‎9781517911720. \[Preview with [Google Books](https://www.google.com/books/edition/Sickening/HzU4EAAAQBAJ?hl=en&gbpv=1)\]
 
-Kirksey, Eben. *The Mutant Project: Inside the Global Race to Genetically Modify Humans*. St. Martin's Press, 2020. ISBN: ‎978.1250265357. \[Preview with [Google Books](https://www.google.com/books/edition/The_Mutant_Project/RS_QDwAAQBAJ?hl=en&gbpv=1)\]
+Kirksey, Eben. *The Mutant Project: Inside the Global Race to Genetically Modify Humans*. St. Martin's Press, 2020. ISBN: ‎9781250265357. \[Preview with [Google Books](https://www.google.com/books/edition/The_Mutant_Project/RS_QDwAAQBAJ?hl=en&gbpv=1)\]
 
 Roosth, Sophia. *Synthetic: How Life Got Made*. University of Chicago Press, 2017. ISBN: ‎9780226440460. \[Preview with [Google Books](https://www.google.com/books/edition/Synthetic/4ZUtDwAAQBAJ?hl=en&gbpv=1)\]
 
