@@ -45,15 +45,13 @@ Evolutionary Narratives, Epidemiological Dramaturgy
 
 Beer, Gillian. "Introduction." In *Darwin’s Plots: Evolutionary Narrative in Darwin,* *George Eliot and Nineteenth-Century Fiction*. 3rd ed. Cambridge University Press, 2009. ISBN: ‎9780521743617. 
 
-Fedigan, Linda Marie. "[The Changing Role of Women in Models of Human](https://www.jstor.org/stable/2155754#metadata_info_tab_contents)                               
-[Evolution](https://www.jstor.org/stable/2155754#metadata_info_tab_contents)." *Annual Review of Anthropology* 15 (1986): 25–66. (Read only pp. 25–31.)
+Fedigan, Linda Marie. "[The Changing Role of Women in Models of Human](https://www.jstor.org/stable/2155754#metadata_info_tab_contents) [Evolution](https://www.jstor.org/stable/2155754#metadata_info_tab_contents)." *Annual Review of Anthropology* 15 (1986): 25–66. (Read only pp. 25–31.)
 
 Rosenberg, Charles E. "[What Is an Epidemic? AIDS in Historical Perspective](https://www.jstor.org/stable/20025233#metadata_info_tab_contents)." *Daedalus* 118, no. 2 (1989): 1–17.
 
 Carr, Danielle. "[A Virus Without a World](https://www.thenation.com/article/culture/carl-zimmer-virus/)." *The Nation*, September 7, 2021.
 
-Wailoo, Keith. ["Spectacles of Difference: The Racial Scripting of Epidemic](https://muse.jhu.edu/article/786006/pdf)                            
-[Disparities." (PDF - 1.6MB)](https://muse.jhu.edu/article/786006/pdf) *Bulletin of the History of Medicine* 94, no. 4 (2020): 602–25.
+Wailoo, Keith. ["Spectacles of Difference: The Racial Scripting of Epidemic](https://muse.jhu.edu/article/786006/pdf) [Disparities." (PDF - 1.6MB)](https://muse.jhu.edu/article/786006/pdf) *Bulletin of the History of Medicine* 94, no. 4 (2020): 602–25.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 4
@@ -75,7 +73,7 @@ Nelson, Alondra. "[Bio Science: Genetic Genealogy Testing and the Pursuit of Afr
 
 Kahn, Jonathan. ["Patenting Race." (PDF)](https://unnaturalcauses.org/assets/uploads/file/kahn-patenting_race.pdf) *Nature Biotechnology* 24, no. 11 (2006): 1349–51.
 
-Helmreich, Stefan. "Homo microbis: Species, Race, Sex, and the Human                    
+Helmreich, Stefan. "Homo microbis: Species, Race, Sex, and the Human                     
 Microbiome." Chapter 6 in *Sounding the Limits of Life: Essays in the Anthropology of Biology and Beyond*. Princeton University Press, 2015. ISBN: ‎ 9780691164816. \[Preview with [Google Books](https://www.google.com/books/edition/Sounding_the_Limits_of_Life/8GuYDwAAQBAJ?hl=en&gbpv=1)\]
 
 *View:*
@@ -90,7 +88,7 @@ Biopolitics and Reproduction
 
 Foucault, Michel. "Right of Death and Power over Life." Part 5 in *The History of Sexuality, Vol. 1: An Introduction*. Translated from the French by Robert Hurley. Vintage, 1990. ISBN: ‎9780679724698. 
 
-Taussig, Karen-Sue, Rayna Rapp, and Deborah Heath. "Flexible Eugenics:                   
+Taussig, Karen-Sue, Rayna Rapp, and Deborah Heath. "Flexible Eugenics:                    
 Technologies of Self in the Age of Eugenics." Chapter 3 in *Genetic Nature/Culture: Anthropology and Science beyond the Two-Culture Divide*. Edited by Alan H. Goodman, Deborah Heath, and M. Susan Lindee. University of California Press, 2003. ISBN: ‎9780520237933. \[Preview with [Google Books](https://www.google.com/books/edition/Genetic_Nature_Culture/pQ1HZpXrqSMC?hl=en&gbpv=1)\]
 
 Bharadwaj, Aditya. "The Other Mother: Supplementary Wombs and the Surrogate State in India." In *Reproductive Technologies as Global Form: Ethnographies of Knowledge, Practices, and Transnational Encounters*. Edited by Michi Knecht, Maren Klotz, and Stefan Beck. University of Chicago Press, 2012. ISBN: 9783593391007. 
@@ -107,11 +105,9 @@ Ritvo, Harriet. "Possessing Mother Nature: Genetic Capital in Eighteenth-century
 
 Landecker, Hannah. "[Between Beneficence and Chattel: The Human Biological in](https://www.cambridge.org/core/journals/science-in-context/article/between-beneficence-and-chattel-the-human-biological-in-law-and-science/24E4552502C2BB7CD94AC0CDD040D653#) [Law and Science](https://www.cambridge.org/core/journals/science-in-context/article/between-beneficence-and-chattel-the-human-biological-in-law-and-science/24E4552502C2BB7CD94AC0CDD040D653#)." *Science in Context* 12, no. 1 (1999): 203–25.
 
-Scheper-Hughes, Nancy. "The Last Commodity: Post-Human Ethics and the                
-Global Traffic in ‘Fresh’ Organs." Chapter 9 in *Global Assemblages: Technology, Politics, and Ethics as Anthropological Problems*. Edited by Aihwa Ong and Stephen J. Collier. Wiley-Blackwell, 2004. ISBN: ‎9781405123587. 
+Scheper-Hughes, Nancy. "The Last Commodity: Post-Human Ethics and the Global Traffic in ‘Fresh’ Organs." Chapter 9 in *Global Assemblages: Technology, Politics, and Ethics as Anthropological Problems*. Edited by Aihwa Ong and Stephen J. Collier. Wiley-Blackwell, 2004. ISBN: ‎9781405123587. 
 
-Banerjee, Dwaipayan. "[From Internationalism to Nationalism: A New Vaccine](https://muse.jhu.edu/article/840283)                
-[Apartheid](https://muse.jhu.edu/article/840283)." *Comparative Studies of South Asia, Africa and the Middle East* 41, no. 3 (2021): 312–17.
+Banerjee, Dwaipayan. "[From Internationalism to Nationalism: A New Vaccine](https://muse.jhu.edu/article/840283) [Apartheid](https://muse.jhu.edu/article/840283)." *Comparative Studies of South Asia, Africa and the Middle East* 41, no. 3 (2021): 312–17.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 7
@@ -153,7 +149,7 @@ Ritvo, Harriet. "[Race, Breed, and Myths of Origin: Chillingham Cattle as Ancien
 
 Haraway, Donna J. "Teddy Bear Patriarchy: Taxidermy in the Garden of Eden, New York City, 1908–1936." Chapter 3 in *Primate Visions: Gender, Race, and Nature in the World of Modern Societies*. Routledge, 1990. ISBN: ‎9780415902946. \[Preview with [Google Books](https://www.google.com/books/edition/Primate_Visions/G1_Q3h5hPP0C?hl=en&gbpv=1)\]
 
-Mansfield, Barbara. ["From Catfish to Organic Fish: Making Distinctions about](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.490.206&rep=rep1&type=pdf)     
+Mansfield, Barbara. ["From Catfish to Organic Fish: Making Distinctions about](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.490.206&rep=rep1&type=pdf)      
 [Nature as Cultural Economic Practice." (PDF)](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.490.206&rep=rep1&type=pdf) *Geoforum* 34, no. 3 (2003): 329–42.
 
 Wanderer, Emily Mannix. "[Biologies of Betrayal: Judas Goats and Sacrificial Mice on the Margins of Mexico](https://www.researchgate.net/publication/273481250_Biologies_of_betrayal_Judas_goats_and_sacrificial_mice_on_the_margins_of_Mexico)." *BioSocieties* 10, no. 1 (2015): 1–23.
@@ -165,23 +161,29 @@ Kirksey, Eben. ["The Emergence of Covid-19: A Multispecies Story." (PDF)](https:
 {{< tdclose >}}{{< tdopen >}}
 Synthetic Biology
 {{< tdclose >}}{{< tdopen >}}
-\[R\]\[Preview with [Google Books](https://www.google.com/books/edition/Synthetic/4ZUtDwAAQBAJ?hl=en&gbpv=1)\]
+\[R\] \[Preview with [Google Books](https://www.google.com/books/edition/Synthetic/4ZUtDwAAQBAJ?hl=en&gbpv=1)\]
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 11
 {{< tdclose >}}{{< tdopen >}}
 Alien Ocean
 {{< tdclose >}}{{< tdopen >}}
- 
+
+Helmreich, Stefan. "Introduction: Life at Sea." In *Alien Ocean: Anthropological Voyages in Microbial Seas*. University of California Press, 2009. ISBN: ‎9780520250628. \[Preview with [Google Books](https://www.google.com/books/edition/Alien_Ocean/X7IwDwAAQBAJ?hl=en&gbpv=1)\]
+
+———. "Dissolving the Tree of Life: Alien Kinship at Hydrothermal Vents." Chapter 2 in *Alien Ocean: Anthropological Voyages in Microbial Seas*. University of California Press, 2009. ISBN: ‎9780520250628. \[Preview with [Google Books](https://www.google.com/books/edition/Alien_Ocean/X7IwDwAAQBAJ?hl=en&gbpv=1)\]
+
+———. "Blue-Green Capitalism: Marine Biotechnology in Hawai‘i." Chapter 3 in *Alien Ocean: Anthropological Voyages in Microbial Seas*. University of California Press, 2009. ISBN: ‎9780520250628. \[Preview with [Google Books](https://www.google.com/books/edition/Alien_Ocean/X7IwDwAAQBAJ?hl=en&gbpv=1)\]
+
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 12
 {{< tdclose >}}{{< tdopen >}}
 Class Conference
 {{< tdclose >}}{{< tdopen >}}
- 
+No readings assigned.
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 13
 {{< tdclose >}}{{< tdopen >}}
 Class Conference
 {{< tdclose >}}{{< tdopen >}}
- 
+No readings assigned.
 {{< tdclose >}}{{< trclose >}}{{< tbodyclose >}}{{< tableclose >}}
