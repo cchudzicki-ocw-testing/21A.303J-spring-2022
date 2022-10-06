@@ -73,8 +73,7 @@ Nelson, Alondra. "[Bio Science: Genetic Genealogy Testing and the Pursuit of Afr
 
 Kahn, Jonathan. ["Patenting Race." (PDF)](https://unnaturalcauses.org/assets/uploads/file/kahn-patenting_race.pdf) *Nature Biotechnology* 24, no. 11 (2006): 1349–51.
 
-Helmreich, Stefan. "Homo microbis: Species, Race, Sex, and the Human                     
-Microbiome." Chapter 6 in *Sounding the Limits of Life: Essays in the Anthropology of Biology and Beyond*. Princeton University Press, 2015. ISBN: ‎ 9780691164816. \[Preview with [Google Books](https://www.google.com/books/edition/Sounding_the_Limits_of_Life/8GuYDwAAQBAJ?hl=en&gbpv=1)\]
+Helmreich, Stefan. "Homo microbis: Species, Race, Sex, and the Human                    Microbiome." Chapter 6 in *Sounding the Limits of Life: Essays in the Anthropology of Biology and Beyond*. Princeton University Press, 2015. ISBN: ‎ 9780691164816. \[Preview with [Google Books](https://www.google.com/books/edition/Sounding_the_Limits_of_Life/8GuYDwAAQBAJ?hl=en&gbpv=1)\]
 
 *View:*
 
@@ -88,7 +87,7 @@ Biopolitics and Reproduction
 
 Foucault, Michel. "Right of Death and Power over Life." Part 5 in *The History of Sexuality, Vol. 1: An Introduction*. Translated from the French by Robert Hurley. Vintage, 1990. ISBN: ‎9780679724698. 
 
-Taussig, Karen-Sue, Rayna Rapp, and Deborah Heath. "Flexible Eugenics:                    
+Taussig, Karen-Sue, Rayna Rapp, and Deborah Heath. "Flexible Eugenics:                     
 Technologies of Self in the Age of Eugenics." Chapter 3 in *Genetic Nature/Culture: Anthropology and Science beyond the Two-Culture Divide*. Edited by Alan H. Goodman, Deborah Heath, and M. Susan Lindee. University of California Press, 2003. ISBN: ‎9780520237933. \[Preview with [Google Books](https://www.google.com/books/edition/Genetic_Nature_Culture/pQ1HZpXrqSMC?hl=en&gbpv=1)\]
 
 Bharadwaj, Aditya. "The Other Mother: Supplementary Wombs and the Surrogate State in India." In *Reproductive Technologies as Global Form: Ethnographies of Knowledge, Practices, and Transnational Encounters*. Edited by Michi Knecht, Maren Klotz, and Stefan Beck. University of Chicago Press, 2012. ISBN: 9783593391007. 
@@ -149,7 +148,7 @@ Ritvo, Harriet. "[Race, Breed, and Myths of Origin: Chillingham Cattle as Ancien
 
 Haraway, Donna J. "Teddy Bear Patriarchy: Taxidermy in the Garden of Eden, New York City, 1908–1936." Chapter 3 in *Primate Visions: Gender, Race, and Nature in the World of Modern Societies*. Routledge, 1990. ISBN: ‎9780415902946. \[Preview with [Google Books](https://www.google.com/books/edition/Primate_Visions/G1_Q3h5hPP0C?hl=en&gbpv=1)\]
 
-Mansfield, Barbara. ["From Catfish to Organic Fish: Making Distinctions about](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.490.206&rep=rep1&type=pdf)      
+Mansfield, Barbara. ["From Catfish to Organic Fish: Making Distinctions about](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.490.206&rep=rep1&type=pdf)       
 [Nature as Cultural Economic Practice." (PDF)](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.490.206&rep=rep1&type=pdf) *Geoforum* 34, no. 3 (2003): 329–42.
 
 Wanderer, Emily Mannix. "[Biologies of Betrayal: Judas Goats and Sacrificial Mice on the Margins of Mexico](https://www.researchgate.net/publication/273481250_Biologies_of_betrayal_Judas_goats_and_sacrificial_mice_on_the_margins_of_Mexico)." *BioSocieties* 10, no. 1 (2015): 1–23.
