@@ -32,3 +32,12 @@ Focusing on the readings for one of our most recent sessions ({{% resource_link 
 Write a 1500–1800-word paper. A strong paper will move beyond answering the question to advancing an argument of your own. Provide a bibliography, formatted in the way you see sources cited in the syllabus.
 
 This paper is due during session 9 and is worth 25% of the course grade.
+
+#### Paper 3
+
+*Option 1:*
+
+For this paper, choose your own topic connected to the cultural, political, religious, and/or economic dimensions of biological science. To do so, look at the pages of the journal [*BioSocieties*](https://www.palgrave.com/us/journal/41292), and find an article on a topic of interest to you. The journal has featured investigations on a range of topics — e.g., biobanking, pharmaceutical markets, forensics, reproductive technologies, cancer medicine, biosecurity, gene editing, epigenetics, neuroscience, model organisms, metabolic conditions, biological databases, patient activism. So there’s a lot to choose from! Once you have found an article, look around in the journal for another article (many topics have generated a number of pieces!) and use the two or three articles you have as your research basis. Having settled on your topic, you must also  
+engage with readings from this class relevant to your topic. What has this class taught you about how to think about this instance of biology in society? What is your topic an example of?
+
+Option 2:
