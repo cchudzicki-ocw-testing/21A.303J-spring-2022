@@ -57,7 +57,7 @@ Race, Racism, and Racialization from Eugenics to Genomics
 
 *Film excerpts:*
 
-***"The Gene Hunters."*** **Mary-Anne Alton et al., 2000**
+*The Gene Hunters.* Directed by Mary-Ann Alton et al. 2000.
 
 [*African American Lives, Episode 4: Beyond the Middle Passage*](https://www.imdb.com/title/tt1075422/?ref_=ttep_ep4). Directed by Leslie Asako Galdsjo and Graham Judd. Color, 54 min. 2006.
 
