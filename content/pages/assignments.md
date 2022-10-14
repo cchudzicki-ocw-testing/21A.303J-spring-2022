@@ -21,6 +21,14 @@ Helmreich, Stefan. "Homo microbis: Species, Race, Sex, and the Human Microbiome.
 
 Examine how the people about whom the authors write structure their engagements with (as relevant) eugenics, genealogy, or microbiomics, often using narrative strategies; turn to materials for sessions 2 and 3 to help you think about how storytelling shapes how people understand biological (evolutionary, organismic) processes.
 
-Write a 1500-1800-word paper. A strong paper will move beyond answering the question to advancing an argument of your own. Provide a bibliography, formatted in the way you see sources cited in the syllabus.
+Write a 1500–1800-word paper. A strong paper will move beyond answering the question to advancing an argument of your own. Provide a bibliography, formatted in the way you see sources cited in the syllabus.
 
 This paper is due during session 5 and is worth 25% of the course grade.
+
+#### Paper 2
+
+Focusing on the readings for one of our most recent sessions ({{% resource_link "e8286978-cd8b-4dd3-aa3d-7f55a7a3cb6d" "sessions 5–8" %}}), describe the “biopolitics” you see unfolding in the cases described. How are “life and its mechanisms” brought into the realm of explicit calculations” and made “an agent of transformation of human life”? What is the relation between the individual and population? How, if relevant, does “biocapital” operate? “Biosociality”?
+
+Write a 1500–1800-word paper. A strong paper will move beyond answering the question to advancing an argument of your own. Provide a bibliography, formatted in the way you see sources cited in the syllabus.
+
+This paper is due during session 9 and is worth 25% of the course grade.
