@@ -20,7 +20,7 @@ What is Life? (Part 1) (PDF - 6.1MB)
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 3
 {{< tdclose >}}{{< tdopen >}}
-Evolutionary Narratives, Epidemiological Dramaturgy (PDF)
+Evolutionary Narratives, Epidemiological Dramaturgy (PDF - 2MB)
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 5
 {{< tdclose >}}{{< tdopen >}}
