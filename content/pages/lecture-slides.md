@@ -20,7 +20,7 @@ What is Life? (Part 1) (PDF - 6MB)
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 3
 {{< tdclose >}}{{< tdopen >}}
-Evolutionary Narratives, Epidemiological Dramaturgy (PDF - 2MB)
+Evolutionary Narratives, Epidemiological Dramaturgy (PDF - 2.2MB)
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 5
 {{< tdclose >}}{{< tdopen >}}
@@ -28,7 +28,7 @@ Biopolitics and Reproduction (PDF)
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 6
 {{< tdclose >}}{{< tdopen >}}
-Biology for Sale (PDF)
+Biology for Sale (PDF - 3.1MB)
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 7
 {{< tdclose >}}{{< tdopen >}}
