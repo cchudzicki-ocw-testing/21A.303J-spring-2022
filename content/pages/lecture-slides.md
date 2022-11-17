@@ -15,7 +15,7 @@ TOPICS 
 
 What is Life? (Part 1) (PDF - 5MB)
 
-What is Life? (Part 1) (PDF - 6MB)
+What is Life? (Part 2) (PDF - 6MB)
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 3
