@@ -32,7 +32,7 @@ Biology for Sale (PDF - 3.1MB)
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 7
 {{< tdclose >}}{{< tdopen >}}
-Health Disparities in the United States (PDF)
+Health Disparities in the United States (PDF - 1.2MB)
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 8
 {{< tdclose >}}{{< tdopen >}}
