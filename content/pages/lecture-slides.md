@@ -36,7 +36,7 @@ Health Disparities in the United States (PDF - 1.2MB)
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 8
 {{< tdclose >}}{{< tdopen >}}
-Remixing Organisms (PDF - 3.9MB)
+Remixing Organisms (PDF - 2.4MB)
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 9
 {{< tdclose >}}{{< tdopen >}}
