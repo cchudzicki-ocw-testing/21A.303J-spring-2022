@@ -5,6 +5,8 @@ draft: false
 title: Lecture Slides
 uid: 404899c5-7d00-46ca-ab8e-ae3a594096f4
 ---
+Note: There are no lecture slides for sessions 1, 4, 10, and 11.
+
 {{< tableopen >}}{{< theadopen >}}{{< tropen >}}{{< thopen >}}
 SES #
 {{< thclose >}}{{< thopen >}}
@@ -41,8 +43,4 @@ Remixing Organisms (PDF - 2.4MB)
 9
 {{< tdclose >}}{{< tdopen >}}
 Animals! (PDF)
-{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
-11
-{{< tdclose >}}{{< tdopen >}}
-Alien Ocean (PDF)
 {{< tdclose >}}{{< trclose >}}{{< tbodyclose >}}{{< tableclose >}}
