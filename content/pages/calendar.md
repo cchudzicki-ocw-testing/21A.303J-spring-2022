@@ -131,7 +131,7 @@ Animals!
 
 *Podcast excerpt:*
 
-"[The Lion and the Rat](https://podcast.labyrinth.garden/1919755/9961975-the-lion-and-the-rat)." [The Labyrinth Project at UCLA](https://podcast.labyrinth.garden/1919755). January 27, 2022.
+"[The Lion and the Rat](https://podcast.labyrinth.garden/1919755/9961975-the-lion-and-the-rat)." The Labyrinth Project at UCLA. January 27, 2022.
 
 *Visitor:*
 
