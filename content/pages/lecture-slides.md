@@ -42,5 +42,5 @@ Remixing Organisms (PDF - 2.4MB)
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 9
 {{< tdclose >}}{{< tdopen >}}
-Animals! (PDF)
+Animals! (PDF - 4.1MB)
 {{< tdclose >}}{{< trclose >}}{{< tbodyclose >}}{{< tableclose >}}
