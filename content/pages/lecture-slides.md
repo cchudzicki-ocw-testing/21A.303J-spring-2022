@@ -26,7 +26,7 @@ TOPICS 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 5
 {{< tdclose >}}{{< tdopen >}}
-{{% resource_link "97bfc36b-b5c8-4fce-903f-8ca1baa8900d" "Biopolitics and Reproduction (PDF - 5.1MB)" %}}
+{{% resource_link "97bfc36b-b5c8-4fce-903f-8ca1baa8900d" "Biopolitics and Reproduction (PDF - 3.4MB)" %}}
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 6
 {{< tdclose >}}{{< tdopen >}}
