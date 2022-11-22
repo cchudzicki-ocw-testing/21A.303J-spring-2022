@@ -26,7 +26,7 @@ Evolutionary Narratives, Epidemiological Dramaturgy (PDF - 2.2MB)
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 5
 {{< tdclose >}}{{< tdopen >}}
-Biopolitics and Reproduction (PDF)
+Biopolitics and Reproduction (PDF - 5.1MB)
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 6
 {{< tdclose >}}{{< tdopen >}}
@@ -42,5 +42,5 @@ Remixing Organisms (PDF - 2.4MB)
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 9
 {{< tdclose >}}{{< tdopen >}}
-Animals! (PDF - 4.1MB)
+Animals! (PDF - 4MB)
 {{< tdclose >}}{{< trclose >}}{{< tbodyclose >}}{{< tableclose >}}
