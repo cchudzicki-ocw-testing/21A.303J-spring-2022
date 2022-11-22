@@ -42,5 +42,5 @@ TOPICS 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 9
 {{< tdclose >}}{{< tdopen >}}
-Animals! (PDF - 4MB)
+{{% resource_link "ac39256b-d9ee-4ff0-97eb-fde76b13e564" "Animals! (PDF - 4MB)" %}}
 {{< tdclose >}}{{< trclose >}}{{< tbodyclose >}}{{< tableclose >}}
