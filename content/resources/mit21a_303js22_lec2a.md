@@ -12,7 +12,7 @@ learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Document
 title: 'The Anthropology of Biology, Lecture Slides 2A: What Is Life? Part 1'
-uid: 8fbe4830-bff5-466e-883c-b82ae5fc508d
+uid: 49f10c39-67a9-43b6-b75d-f55d33258097
 video_files:
   video_captions_file: ''
   video_thumbnail_file: ''

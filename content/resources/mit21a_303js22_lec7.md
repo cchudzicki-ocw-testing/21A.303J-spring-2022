@@ -13,7 +13,7 @@ license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Document
 title: 'The Anthropology of Biology, Lecture Slides 7: Health Disparities in the United
   States'
-uid: 16f848c1-b437-4acd-9484-0cb5ab8dd71a
+uid: dc49aa03-f068-43d4-8904-5bb67c31f18c
 video_files:
   video_captions_file: ''
   video_thumbnail_file: ''

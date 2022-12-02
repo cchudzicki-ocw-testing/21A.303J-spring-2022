@@ -12,7 +12,7 @@ learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Document
 title: 'The Anthropology of Biology, Lecture Slides 8: Animals!'
-uid: 6d40a62a-d77f-461f-b6cf-a658809035b7
+uid: 9e0afc3f-cded-4e0f-a25e-0e8c5085b1bf
 video_files:
   video_captions_file: ''
   video_thumbnail_file: ''
