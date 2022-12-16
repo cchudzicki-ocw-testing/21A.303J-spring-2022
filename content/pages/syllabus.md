@@ -48,7 +48,7 @@ Paper 3
 25%
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 
-Class participation
+Class Participation
 
 *Students will also be responsible for the preparation of pre-class comments on the class website to prompt class conversation (you may miss three postings with no penalty).*
 
